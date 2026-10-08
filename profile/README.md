@@ -1,13 +1,19 @@
-# EE4920 / CEG4981 Senior Design Group 6
+# EE4920 / CEG4981
 
-## Website Code
+Senior Design Group 6
+
+### Website URL
+
+- https://seniorprojectsite.onrender.com/
+
+### Website Code
 
 - https://github.com/MahalaCovey/SeniorProjectSite
 
-## Transmission Code
+### Transmission Code
 
 - https://github.com/senior-design-group-6/transmission
 
-## RFID Authentication Code 
+### RFID Authentication Code 
 
 - https://github.com/payne1778/CEG4981
